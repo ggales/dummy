@@ -1,2 +1,2 @@
-initial commit
-I've already fixed 2 bugs! 
+Bug list:
+- I've already fixed 3 bugs! 
